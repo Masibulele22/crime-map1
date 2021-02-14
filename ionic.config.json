@@ -1,0 +1,7 @@
+{
+  "name": "Crime Map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
